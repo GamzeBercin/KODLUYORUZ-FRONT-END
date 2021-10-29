@@ -1,0 +1,47 @@
+h1{
+    color: #506D84;
+    margin: auto;
+    text-align: center;
+    
+}
+body{
+    background-color: #d499d4;
+    margin: auto;
+    position: relative;
+    font-family: 'Irish Grover', cursive;
+}
+table{
+    color: #889EAF;
+    position: relative;
+    margin: auto;
+}
+h2{
+    color:#506D84;
+    position: relative;
+    margin: auto;
+    text-align: center;
+ 
+}
+div{
+    
+    color: #171010;
+    font-size: 20px;
+    width: 150px;
+    height: 300px;
+    position: relative;
+    margin: auto;
+    
+}
+
+p{
+    text-align: center;
+}
+    
+ul{
+    text-align: center;
+    list-style-position: inside;
+}
+td { 
+    padding: 10px;
+}
+
